@@ -1,0 +1,59 @@
+.design{
+    position: absolute;
+    top: 230px;
+left: 470px;
+width: 650px;
+height: 270px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+.filee >input{
+    position: relative;
+    top: 25px;
+    left: 40px;
+    width: 80%;
+    height: 34px;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    border: 1px solid black;
+}
+.two{
+    display: block;
+}
+.two >input{
+    position: relative;
+    top: 35px;
+    left: 40px;
+    /* width: 20%; */
+    height: 32px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+.two >input:last-child{
+    position: absolute;
+    left: 340px;
+    top: 76px;
+}
+.de input{
+    position: relative;
+    top: 40px;
+    left: 40px;
+    width: 80%;
+    height: 32px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+}
+.Final >input{
+    position: absolute;
+    top: 180px;
+left: 220px;
+width: 120px;
+height: 34px;
+background-color: #ecfd34;
+border: transparent;
+}

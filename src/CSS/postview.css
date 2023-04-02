@@ -1,0 +1,54 @@
+.grid-container {
+    margin-left: 30%;
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: auto;
+    padding: 10px;
+  }
+
+.Post{
+width: 600px;
+height: 500px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+border-radius: 10px;
+opacity: 1;
+padding: 20px;
+}
+.no{
+    color: black;
+}
+.first span{
+    display: flex;
+}
+.Bold{
+    font-weight: bold;
+}
+.Image img{
+    width: 600px;
+    height: 300px;
+}
+.dot{
+    float: right;
+    font-size: 40px;
+    margin-right: 3%;
+}
+.imgcntrl span{
+   margin-left: 3%;
+}
+.dates{
+    float: right;
+    margin-right: 3%;
+}
+.lmargin{
+    margin-left: 3%;
+}
+.font1{
+    font-size: 10px;
+}
+.clr1{
+color: #000000;
+}
+.clr2{
+    color: #707070;
+}
